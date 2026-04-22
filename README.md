@@ -3,3 +3,6 @@
 2. Slide: https://gamma.app/docs/Bank-Operations-Copilot-y2pk0xyl0kwo2us
 
 3. Peer Review :
+    Nhóm 12: ./peer_review/peer_review_12.pdf
+    Nhóm 15: ./peer_review/peer_review_15.pdf
+    Nhóm 16: ./peer_review/peer_review_16.pdf
